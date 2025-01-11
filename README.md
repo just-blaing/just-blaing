@@ -3,7 +3,6 @@
 ### яп за которые я шарю:
 
 [![C#](https://img.shields.io/badge/-CSharp-090909?style=for-the-badge&logo=CSharp)](https://ru.wikipedia.org/wiki/C_Sharp)
-[![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge)](https://ru.wikipedia.org/wiki/HTML)
 [![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python)](https://ru.wikipedia.org/wiki/Python)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)](https://ru.wikipedia.org/wiki/JavaScript)
 
