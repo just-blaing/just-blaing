@@ -11,4 +11,4 @@
 - предпочитаю сидеть дома и кодить
 - выкладываю рандом коды на питоне сюда
 
-<a href="https://mynickname.com/id1746569"><img src="https://mynickname.com/img.php?id=1746569&sert=1" alt="Сертификат на никнейм blaing" border="0" /></a><br /><a href="https://mynickname.com">мой ник</a>
+<a href="https://mynickname.com/id1746569"><img src="https://mynickname.com/img.php?id=1746569&sert=1" alt="Сертификат на никнейм blaing" border="0" /></a><br />
