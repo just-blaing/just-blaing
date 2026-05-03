@@ -1,4 +1,4 @@
-# qq, i'm [blaing](https://guns.lol/blaing)
+# qq, i'm blaing
 
 ### яп за которые я шарю:
 
